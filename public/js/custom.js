@@ -1,4 +1,4 @@
-console.log("Client side JS is loaded") 
+console.log("Client side Javascript is loaded...") 
 
 // // Fetch isn't part of JS but supported by all chrome
 // fetch('http://puzzle.mead.io/puzzle').then((response) => {
