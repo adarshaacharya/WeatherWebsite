@@ -25,14 +25,14 @@ const forecast = (latitude, longitude, callback) => {
         undefined,
         `${response.body.daily.data[0].summary}\nIt is ${
           response.body.currently.temperature
-        } degree Celsius out now. There is ${
+        }&#8451 out now. There is ${
           response.body.currently.precipProbability
         }% chance of rain.\n
             The highest temperature for today is ${
               response.body.daily.data[0].temperatureHigh
-            } whereas lowest one is ${
+            }&#8451 whereas lowest one is ${
           response.body.daily.data[0].temperatureLow
-        }`
+        }&#8451`
       );
     }
   });
