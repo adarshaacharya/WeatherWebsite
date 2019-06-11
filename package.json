@@ -4,15 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app.js"
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js -e js,hbs"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "handlebars": "^4.1.2",
     "hbs": "^4.0.4",
-    "moment": "^2.24.0",
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.2.0"
   }
 }
