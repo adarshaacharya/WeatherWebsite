@@ -25,7 +25,7 @@ https://aadarsha-weather-app.herokuapp.com/
 ---
 
 
-**How to Use App** :syringe:
+**How to Fetch Weather ? ** :syringe:
 
 
  Enter the location you want to search and click on search.
