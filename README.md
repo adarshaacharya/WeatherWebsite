@@ -25,18 +25,18 @@ https://aadarsha-weather-app.herokuapp.com/
 ---
 
 
-**How to Fetch Weather ? ** :syringe:
+**How to Fetch Weather ?** :syringe:
 
 
  Enter the location you want to search and click on search.
 
-- If the result is found the following will be displayed : 
+**- If the result is found the following will be displayed :** 
 
 ![Add](./screenshots/img01.png)
 
 
 
-- Else the following error message will be displayed :
+**- Else the following error message will be displayed :**
 
 ![Add](./screenshots/img02.png)
 
